@@ -87,7 +87,3 @@ void readValues() {
         m = "X:" + String(x) + ", Y:" + String(y);
     }
 }
- ", Y:" + String(my) + ", Z:" + String(mz);
-        g = "X:" + String(gx) + ", Y:" + String(gy) + ", Z:" + String(gz);
-    }
-}
